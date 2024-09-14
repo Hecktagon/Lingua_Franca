@@ -1,1 +1,2 @@
 Here is some practice text
+\n Here is a merge conflict
